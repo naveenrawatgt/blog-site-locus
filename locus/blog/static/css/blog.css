@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+  }
+  
+  .techfont{
+    font-family: 'Bebas Neue', cursive;
+  }
+  .centerstage{
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .bigbrand{
+    font-size: 1.5em;
+  }
+  .postdate{
+    text-align: right;
+  }
+  .posttitle{
+    font-family: 'Bebas Neue', cursive;
+    font: 2em;
+    text-align: center;
+  }
+  .postcontent{
+    font-family: 'Overlock', cursive;
+    font-size: 1.5em;
+  }
+  .title{
+    font-family: 'Encode Sans Condensed', sans-serif;
+  }
+  .right{
+    text-align: end;
+  }
+  
